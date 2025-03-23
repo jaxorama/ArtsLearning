@@ -21,8 +21,16 @@ Yet to start
 * Club Banger Method (James Hype) - https://training.digitaldjtips.com/elearning/course/48
 * Tricks and Transitions (DJ Angelo) - https://training.digitaldjtips.com/elearning/course/46
 * DJing made Easy - https://training.digitaldjtips.com/elearning/course/37
+* Digital DJ Versatility (L2DJ) - https://www.udemy.com/course-dashboard-redirect/?course_id=5949180
+* Beginner to Intermediate House, Techno (L2DJ) - https://www.udemy.com/course-dashboard-redirect/?course_id=5654152
+* Virtual DJ - Become a DJ in an hour - https://www.udemy.com/course-dashboard-redirect/?course_id=4585198
+* Learn how to DJ in a superclub - https://www.udemy.com/course-dashboard-redirect/?course_id=3087962
+* How to become a DJ (Wutang Clan) - https://www.udemy.com/course-dashboard-redirect/?course_id=1186942
+* Top Wedding DJ tip - https://www.udemy.com/course-dashboard-redirect/?course_id=1019890
+* Learn how to start DJing online - Ross Palmer - https://www.udemy.com/course-dashboard-redirect/?course_id=1322444
+* Learn how to become a DJ and the life of the party - https://www.udemy.com/course-dashboard-redirect/?course_id=334660
+* Beginner DJ for Pioneer equipment - https://www.udemy.com/course-dashboard-redirect/?course_id=2284697
 * 
-
 # Film Making
 - Editing
 - Cinematography
