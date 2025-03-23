@@ -10,7 +10,7 @@ A compendium of art-related learning that I am doing
 * Beginner DJ Setup (Jak Bradley) - https://www.skillshare.com/en/classes/best-beginner-dj-set-up-what-dj-equipment-should-you-choose-and-why/822916132 (★★★★★ - Useful pointers on picking the right DJ software + DJ controller as a beginner. I switched to Rekordbox + Pioneer DDJ-FLX4 controller after this course)
 
 Yet to start
-* The Complete DJ Course for Beginners (Jak Bradley) - https://www.skillshare.com/en/classes/the-complete-dj-course-for-beginners-a-full-step-by-step-guide-to-djing/1692694063
+* The Complete DJ Course for Beginners (Jak Bradley) - https://www.skillshare.com/en/classes/the-complete-dj-course-for-beginners-a-full-step-by-step-guide-to-djing/1692694063 OR https://www.udemy.com/course-dashboard-redirect/?course_id=2042418
 * Learn how to mix 5 EDM tracks (Jak Bradley) - https://www.skillshare.com/en/classes/practice-djing-learn-how-to-mix-5-edm-tracks-in-5-minutes/775238545
 * Learn how to mix 5 deep house tracks (Jak Bradley) - https://www.skillshare.com/en/classes/practice-djing-learn-how-to-mix-5-deep-house-tracks-in-5-minutes/1869598427
 * Learn how to mix 6 house tracks (Jak Bradley) - https://www.skillshare.com/en/classes/practice-djing-learn-how-to-mix-6-house-tracks-in-6-minutes/595955958
@@ -30,6 +30,9 @@ Yet to start
 * Learn how to start DJing online - Ross Palmer - https://www.udemy.com/course-dashboard-redirect/?course_id=1322444
 * Learn how to become a DJ and the life of the party - https://www.udemy.com/course-dashboard-redirect/?course_id=334660
 * Beginner DJ for Pioneer equipment - https://www.udemy.com/course-dashboard-redirect/?course_id=2284697
+* Make DJ Edits, Mashups in Ableton - https://www.udemy.com/course-dashboard-redirect/?course_id=2579642
+* How to DJ with Pioneer SB2 - https://www.udemy.com/course-dashboard-redirect/?course_id=1652204
+* Turntablism - https://www.udemy.com/course-dashboard-redirect/?course_id=1353286
 * 
 # Film Making
 - Editing
