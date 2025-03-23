@@ -53,6 +53,8 @@ Yet to start
 # Piano
 - Baffled by Piano Chords (Simon Glinister) - https://www.skillshare.com/en/classes/baffled-by-piano-chords-memorise-them-easily-without-needing-any-theory/850459362?via=user-profile (
 - Baffled by Piano Scales (Simon Glinister) - https://www.skillshare.com/en/classes/baffled-by-piano-scales-see-them-instantly/1316169502?via=user-profile
-- 
 - Fastplay Piano - https://www.udemy.com/course/decplay-the-fastest-way-to-learn-piano/ (Completed 03/23/2025 - ★★★☆☆ - Meant to be fast and simple, but is too basic to be useful)
 -  
+# Vocals
+- Harry Jay Vocals - https://harryjayvocals.mykajabi.com/products/anyone-can-sing-full-course
+- 
