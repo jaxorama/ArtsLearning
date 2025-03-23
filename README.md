@@ -33,6 +33,8 @@ Yet to start
 * Make DJ Edits, Mashups in Ableton - https://www.udemy.com/course-dashboard-redirect/?course_id=2579642
 * How to DJ with Pioneer SB2 - https://www.udemy.com/course-dashboard-redirect/?course_id=1652204
 * Turntablism - https://www.udemy.com/course-dashboard-redirect/?course_id=1353286
+* Masterclass on Music Creation & DJing (Questlove) - https://www.masterclass.com/classes/questlove-teaches-music-curation-and-djing
+* Fruit punch academy - https://www.fruitpunchcourse.com/t/u/activeCourses
 * 
 # Film Making
 - Editing
@@ -40,7 +42,6 @@ Yet to start
 
 # Music
 - Bass 
-- DJ
 - Guitar
 - Piano
 - Voice
