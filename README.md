@@ -40,6 +40,9 @@ Yet to start
 - Editing
 - Cinematography
 
+# Guitar
+- https://www.musiceducademy.com/ Adit Kundra's Guitar Courses
+- 
 # Music
 - Bass 
 - Guitar
