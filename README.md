@@ -37,6 +37,8 @@ Yet to start
 * Fruit punch academy - https://www.fruitpunchcourse.com/t/u/activeCourses
 * 
 # Film Making
+- 14 day film maker (Anthony Gallo) - https://www.contentcreator.com/products/14-day-filmmaker
+- 14 day smartphone film maker (Anthony Gallo) - https://www.contentcreator.com/products/14-day-smartphone-filmmaker
 - Editing
 - Cinematography
 
