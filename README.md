@@ -62,4 +62,4 @@ Yet to start
 -  
 # Vocals
 - Harry Jay Vocals - https://harryjayvocals.mykajabi.com/products/anyone-can-sing-full-course
-- 
+- Cheryl Porter Vocal Method - https://course.cherylportermethod.com/courses/enrolled
