@@ -63,3 +63,4 @@ Yet to start
 # Vocals
 - Harry Jay Vocals - https://harryjayvocals.mykajabi.com/products/anyone-can-sing-full-course
 - Cheryl Porter Vocal Method - https://course.cherylportermethod.com/courses/enrolled
+- Bob Smeenk - ABC Mini Course - https://bobsmeenk.com/abc1/ https://bobsmeenk.com/abcvw/ https://bobsmeenk.com/abcvl/
